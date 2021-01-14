@@ -1,0 +1,12 @@
+C:\ApplicationVenteSupports\VenteSupports\VenteSupports\bin\Debug\VenteSupports.exe.config
+C:\ApplicationVenteSupports\VenteSupports\VenteSupports\obj\Debug\VenteSupports.csprojResolveAssemblyReference.cache
+C:\ApplicationVenteSupports\VenteSupports\VenteSupports\obj\Debug\VenteSupports.FormLogin.resources
+C:\ApplicationVenteSupports\VenteSupports\VenteSupports\obj\Debug\VenteSupports.ListingEnseignants.resources
+C:\ApplicationVenteSupports\VenteSupports\VenteSupports\obj\Debug\VenteSupports.ListingSupports.resources
+C:\ApplicationVenteSupports\VenteSupports\VenteSupports\obj\Debug\VenteSupports.MenuGeneralParent.resources
+C:\ApplicationVenteSupports\VenteSupports\VenteSupports\obj\Debug\VenteSupports.Properties.Resources.resources
+C:\ApplicationVenteSupports\VenteSupports\VenteSupports\obj\Debug\VenteSupports.csproj.GenerateResource.Cache
+C:\ApplicationVenteSupports\VenteSupports\VenteSupports\bin\Debug\VenteSupports.exe
+C:\ApplicationVenteSupports\VenteSupports\VenteSupports\bin\Debug\VenteSupports.pdb
+C:\ApplicationVenteSupports\VenteSupports\VenteSupports\obj\Debug\VenteSupports.exe
+C:\ApplicationVenteSupports\VenteSupports\VenteSupports\obj\Debug\VenteSupports.pdb
